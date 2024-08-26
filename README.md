@@ -1,4 +1,3 @@
-#AI Rate My Professor chatbot
 Project 5 for Headstarter SWE Fellowship
 
 To run program, please first download file folder to device and open in IDE (ex: VS Code)
